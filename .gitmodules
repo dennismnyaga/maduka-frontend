@@ -1,0 +1,3 @@
+[submodule "maduka-frontend"]
+path = maduka-frontend
+url = https://github.com/dennismnyaga/maduka-frontend.git
